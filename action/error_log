@@ -1,0 +1,72 @@
+[29-May-2019 11:49:03 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/appentus/public_html/sch/action/do_admin_login.php on line 7
+[29-May-2019 11:49:03 Etc/GMT] PHP Notice:  Undefined index: password in /home/appentus/public_html/sch/action/do_admin_login.php on line 8
+[29-May-2019 11:49:03 Etc/GMT] PHP Notice:  Undefined variable: db in /home/appentus/public_html/sch/action/do_admin_login.php on line 9
+[29-May-2019 11:49:03 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/appentus/public_html/sch/action/do_admin_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appentus/public_html/sch/action/do_admin_login.php on line 9
+[29-May-2019 11:51:18 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/appentus/public_html/sch/action/do_admin_login.php on line 23
+[29-May-2019 11:51:18 Etc/GMT] PHP Notice:  Undefined index: password in /home/appentus/public_html/sch/action/do_admin_login.php on line 24
+[29-May-2019 11:51:18 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/appentus/public_html/sch/action/do_admin_login.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appentus/public_html/sch/action/do_admin_login.php on line 25
+[29-May-2019 12:15:03 Etc/GMT] PHP Notice:  Undefined index: auth in /home/appentus/public_html/sch/action/do_admin_login.php on line 17
+[29-May-2019 12:15:03 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/appentus/public_html/sch/action/do_admin_login.php on line 17
+[29-May-2019 12:15:03 Etc/GMT] PHP Notice:  Undefined index: email in /home/appentus/public_html/sch/action/do_admin_login.php on line 19
+[29-May-2019 12:15:03 Etc/GMT] PHP Notice:  Undefined index: password in /home/appentus/public_html/sch/action/do_admin_login.php on line 19
+[29-May-2019 12:15:03 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/appentus/public_html/sch/action/do_admin_login.php on line 27
+[29-May-2019 12:18:36 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/appentus/public_html/sch/action/do_admin_login.php on line 17
+[29-May-2019 12:19:12 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/appentus/public_html/sch/action/do_admin_login.php on line 17
+[29-May-2019 12:20:03 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/appentus/public_html/sch/action/do_admin_login.php on line 17
+[29-May-2019 16:00:21 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/appentus/public_html/sch/action/do_admin_login.php on line 17
+[29-May-2019 16:02:31 Etc/GMT] PHP Notice:  Undefined index: auth in /home/appentus/public_html/sch/action/do_admin_login.php on line 17
+[29-May-2019 16:02:31 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/appentus/public_html/sch/action/do_admin_login.php on line 17
+[29-May-2019 16:08:21 Etc/GMT] PHP Notice:  Undefined index: auth in /home/appentus/public_html/sch/action/do_admin_login.php on line 17
+[29-May-2019 16:08:21 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/appentus/public_html/sch/action/do_admin_login.php on line 17
+[29-May-2019 16:09:26 Etc/GMT] PHP Notice:  Undefined index: auth in /home/appentus/public_html/sch/action/do_admin_login.php on line 17
+[29-May-2019 16:09:26 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/appentus/public_html/sch/action/do_admin_login.php on line 17
+[29-May-2019 16:10:26 Etc/GMT] PHP Notice:  Undefined index: auth in /home/appentus/public_html/sch/action/do_admin_login.php on line 17
+[29-May-2019 16:10:26 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/appentus/public_html/sch/action/do_admin_login.php on line 17
+[29-May-2019 16:10:26 Etc/GMT] PHP Notice:  Undefined index: email in /home/appentus/public_html/sch/action/do_admin_login.php on line 21
+[29-May-2019 16:10:26 Etc/GMT] PHP Notice:  Undefined index: password in /home/appentus/public_html/sch/action/do_admin_login.php on line 21
+[29-May-2019 16:11:22 Etc/GMT] PHP Notice:  Undefined index: auth in /home/appentus/public_html/sch/action/do_admin_login.php on line 17
+[29-May-2019 16:11:22 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/appentus/public_html/sch/action/do_admin_login.php on line 17
+[29-May-2019 16:17:07 Etc/GMT] PHP Notice:  Undefined index: auth in /home/appentus/public_html/sch/action/do_admin_login.php on line 17
+[29-May-2019 16:17:07 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/appentus/public_html/sch/action/do_admin_login.php on line 17
+[29-May-2019 16:31:24 Etc/GMT] PHP Notice:  Undefined index: auth in /home/appentus/public_html/sch/action/do_admin_login.php on line 17
+[29-May-2019 16:31:24 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/appentus/public_html/sch/action/do_admin_login.php on line 17
+[29-May-2019 16:31:24 Etc/GMT] PHP Notice:  Undefined index: email in /home/appentus/public_html/sch/action/do_admin_login.php on line 21
+[29-May-2019 16:31:24 Etc/GMT] PHP Notice:  Undefined index: password in /home/appentus/public_html/sch/action/do_admin_login.php on line 21
+[29-May-2019 16:31:50 Etc/GMT] PHP Notice:  Undefined index: auth in /home/appentus/public_html/sch/action/do_admin_login.php on line 17
+[29-May-2019 16:31:50 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/appentus/public_html/sch/action/do_admin_login.php on line 17
+[29-May-2019 16:31:50 Etc/GMT] PHP Notice:  Undefined index: admin in /home/appentus/public_html/sch/action/do_admin_login.php on line 33
+[29-May-2019 16:35:24 Etc/GMT] PHP Notice:  Undefined index: auth in /home/appentus/public_html/sch/action/do_admin_login.php on line 17
+[29-May-2019 16:35:24 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/appentus/public_html/sch/action/do_admin_login.php on line 17
+[29-May-2019 16:35:43 Etc/GMT] PHP Notice:  Undefined index: auth in /home/appentus/public_html/sch/action/do_admin_login.php on line 17
+[29-May-2019 16:35:43 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/appentus/public_html/sch/action/do_admin_login.php on line 17
+[29-May-2019 16:35:43 Etc/GMT] PHP Notice:  Undefined index: admin in /home/appentus/public_html/sch/action/do_admin_login.php on line 33
+[29-May-2019 16:36:07 Etc/GMT] PHP Notice:  Undefined index: auth in /home/appentus/public_html/sch/action/do_admin_login.php on line 17
+[29-May-2019 16:36:07 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/appentus/public_html/sch/action/do_admin_login.php on line 17
+[29-May-2019 16:36:07 Etc/GMT] PHP Notice:  Undefined index: email in /home/appentus/public_html/sch/action/do_admin_login.php on line 21
+[29-May-2019 16:36:07 Etc/GMT] PHP Notice:  Undefined index: password in /home/appentus/public_html/sch/action/do_admin_login.php on line 21
+[29-May-2019 16:36:20 Etc/GMT] PHP Notice:  Undefined index: auth in /home/appentus/public_html/sch/action/do_admin_login.php on line 17
+[29-May-2019 16:36:20 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/appentus/public_html/sch/action/do_admin_login.php on line 17
+[29-May-2019 16:51:33 Etc/GMT] PHP Notice:  Undefined index: auth in /home/appentus/public_html/sch/action/do_admin_login.php on line 17
+[29-May-2019 16:51:33 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/appentus/public_html/sch/action/do_admin_login.php on line 17
+[29-May-2019 16:53:50 Etc/GMT] PHP Notice:  Undefined index: auth in /home/appentus/public_html/sch/action/do_admin_login.php on line 18
+[29-May-2019 16:54:06 Etc/GMT] PHP Notice:  Undefined index: auth in /home/appentus/public_html/sch/action/do_admin_login.php on line 18
+[29-May-2019 16:55:16 Etc/GMT] PHP Notice:  Undefined index: auth in /home/appentus/public_html/sch/action/do_admin_login.php on line 18
+[29-May-2019 17:00:16 Etc/GMT] PHP Notice:  Undefined index: email in /home/appentus/public_html/sch/action/do_admin_login.php on line 22
+[29-May-2019 17:00:16 Etc/GMT] PHP Notice:  Undefined index: password in /home/appentus/public_html/sch/action/do_admin_login.php on line 22
+[30-May-2019 05:27:28 Etc/GMT] PHP Notice:  Undefined index: email in /home/appentus/public_html/sch/action/do_admin_login.php on line 22
+[30-May-2019 05:27:28 Etc/GMT] PHP Notice:  Undefined index: password in /home/appentus/public_html/sch/action/do_admin_login.php on line 22
+[30-May-2019 05:28:25 Etc/GMT] PHP Notice:  Undefined index: email in /home/appentus/public_html/sch/action/do_admin_login.php on line 22
+[30-May-2019 05:28:25 Etc/GMT] PHP Notice:  Undefined index: password in /home/appentus/public_html/sch/action/do_admin_login.php on line 22
+[30-May-2019 05:28:27 Etc/GMT] PHP Notice:  Undefined index: email in /home/appentus/public_html/sch/action/do_admin_login.php on line 22
+[30-May-2019 05:28:27 Etc/GMT] PHP Notice:  Undefined index: password in /home/appentus/public_html/sch/action/do_admin_login.php on line 22
+[31-May-2019 00:06:20 Etc/GMT] PHP Notice:  Undefined index: email in /home/appentus/public_html/sch/action/do_admin_login.php on line 22
+[31-May-2019 00:06:20 Etc/GMT] PHP Notice:  Undefined index: password in /home/appentus/public_html/sch/action/do_admin_login.php on line 22
+[03-Jun-2019 05:15:48 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'appentus_sch'@'localhost' (using password: YES) in /home/designseeliv/public_html/Admin/action/connection.php on line 8
+[03-Jun-2019 05:16:28 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'appentus_sch'@'localhost' (using password: YES) in /home/designseeliv/public_html/Admin/action/connection.php on line 8
+[03-Jun-2019 05:43:10 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'appentus_sch'@'localhost' (using password: YES) in /home/designseeliv/public_html/Admin/action/connection.php on line 8
